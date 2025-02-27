@@ -1,1 +1,1 @@
-odin-link unorderlist receipe 
+odin-link unorderlist recipe 
